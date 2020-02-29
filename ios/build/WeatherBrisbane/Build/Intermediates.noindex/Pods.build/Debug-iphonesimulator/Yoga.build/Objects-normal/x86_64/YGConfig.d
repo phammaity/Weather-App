@@ -1,0 +1,10 @@
+dependencies: \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/yoga/yoga/YGConfig.cpp \
+  /Users/maity/Documents/ver2/ios/Pods/Target\ Support\ Files/Yoga/Yoga-prefix.pch \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/yoga/yoga/YGConfig.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/yoga/yoga/Yoga-internal.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/yoga/yoga/CompactValue.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/yoga/yoga/YGValue.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/yoga/yoga/YGEnums.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/yoga/yoga/YGMacros.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/yoga/yoga/Yoga.h

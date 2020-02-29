@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/CoreModules/RCTPlatform.mm \
+  /Users/maity/Documents/ver2/ios/Pods/Target\ Support\ Files/React-CoreModules/React-CoreModules-prefix.pch \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/CoreModules/RCTPlatform.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/Libraries/FBReactNativeSpec/FBReactNativeSpec/FBReactNativeSpec.h \
+  /Users/maity/Documents/ver2/ios/Pods/Headers/Public/RCTRequired/RCTRequired/RCTRequired.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/Libraries/TypeSafety/RCTConvertHelpers.h \
+  /Users/maity/Documents/ver2/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyVector.h \
+  /Users/maity/Documents/ver2/ios/Pods/Headers/Public/FBLazyVector/FBLazyVector/FBLazyIterator.h \
+  /Users/maity/Documents/ver2/ios/Pods/Folly/folly/Optional.h \
+  /Users/maity/Documents/ver2/ios/Pods/Folly/folly/Portability.h \
+  /Users/maity/Documents/ver2/ios/Pods/Folly/folly/portability/Config.h \
+  /Users/maity/Documents/ver2/ios/Pods/Folly/folly/CPortability.h \
+  /Users/maity/Documents/ver2/ios/Pods/Folly/folly/Traits.h \
+  /Users/maity/Documents/ver2/ios/Pods/Folly/folly/Utility.h \
+  /Users/maity/Documents/ver2/ios/Pods/Folly/folly/lang/Exception.h \
+  /Users/maity/Documents/ver2/ios/Pods/Folly/folly/CppAttributes.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/Libraries/TypeSafety/RCTTypedModuleConstants.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTCxxConvert.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTManagedPointer.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/turbomodule/core/platform/ios/RCTTurboModule.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTModuleMethod.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTNullability.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/jscallinvoker/ReactCommon/JSCallInvoker.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/turbomodule/core/TurboModule.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/jsi/jsi/jsi.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/jsi/jsi/jsi-inl.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/ReactCommon/cxxreact/MessageQueueThread.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/Base/RCTVersion.h \
+  /Users/maity/Documents/ver2/node_modules/react-native/React/CoreModules/CoreModulesPlugins.h
